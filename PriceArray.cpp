@@ -1,6 +1,6 @@
-//Intermediate25.cpp - increases the prices stored in
-//an array and then displays the increased prices
-//Created/revised by <your name> on <current date>
+//Programmer: Matt Brundage II
+//Date: 4/22/21
+//Increases prices in array/displays increased prices
 
 #include <iostream>
 #include <iomanip>
