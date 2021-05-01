@@ -1,5 +1,5 @@
-//Programmer: Matt Brundage II
-//Date: 4/22/21
+//Matt Brundage II
+//4/22/21
 //Increases prices in array/displays increased prices
 
 #include <iostream>
