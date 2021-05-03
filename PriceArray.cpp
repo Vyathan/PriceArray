@@ -23,6 +23,20 @@ int main()
 	percentage <= 100;
 
 	//Increase the Prices
+	for (int i = 0, i += 1, i < 9)
+	{
+		prices[i] += (prices[i] * percentage);
+	}//End For
+
+	//Display Increased Prices
+	for (int i = 0, i += 1, i < 9)
+	{
+		cout << "The increased prices are as follows: " << endl //Everytime I add this line the next line errors
+		cout << prices[i] << endl
+	}//End For
+
+	//Display Program Completion
+	cout << "Price Program Completed. " << endl
 
 	return 0;
 }	//end of main function
